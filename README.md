@@ -51,6 +51,8 @@ Generated Random Numbers:
 1714636915
 1957747793
 ```
+### Output
+<img width="1856" height="778" alt="image" src="https://github.com/user-attachments/assets/088a2382-2ef3-4c89-9891-c5cd5804ee24" />
 
 > **Note:** The output values will be different each time the program is executed because the random number generator is seeded using the current system time.
 
