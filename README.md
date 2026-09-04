@@ -3,6 +3,9 @@
 ## AIM
 To implement pseudorandom number generation using the standard C library.
 
+#### Name: **Prahathieswaran S** 
+#### Reg No: **212225240107**
+
 ## ALGORITHM
 1. Start the program.
 2. Import the required header files.
